@@ -1,0 +1,2 @@
+mysql sql4.freemysqlhosting.net -u sql4101133 -p
+5U5vPdxtS2
